@@ -1,6 +1,5 @@
 print 8+2
 print "\n"
-puts 6+6
 puts 8/3
 puts 9-3
 print "\n"
